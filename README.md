@@ -1,2 +1,2 @@
 # Customer-segmentation
-Customer segmentation using RFM and K- Means algorithm
+Customer segmentation of sales data by K- Means algorithm usng RFM technique
